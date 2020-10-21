@@ -1,7 +1,7 @@
 
 %================ScatteringPattern======================%
 
-%By:Abdiladi Azemi ETH Zurich
+%By:Abdiladi Azemi
 
 %The Matlab Code for Calculatinf the Scattering Pattern E(?)=-?_(n=1)^N I'nH0(g?) e^(/jhz)
 
